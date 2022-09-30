@@ -4,8 +4,6 @@
 
 This is my first fullstack project with .Net Core and React and my final project for completing the Inveon FullStack Bootcamp :)
 
-![cover](./img/inveon.png)
-
 The project is a fullstack project which consisting two main parts:
 
 - Backend side: .NET Core, C#
