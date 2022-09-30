@@ -1,4 +1,4 @@
-# Berke Senturk Final Homework - FullStack Ecommerce App (.NET Core & React JS)
+FullStack Ecommerce App (.NET Core & React JS)
 
 # About 
 
